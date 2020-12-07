@@ -1,0 +1,9 @@
+C:\Users\pc\Desktop\CODE application Debuger\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\pc\Desktop\CODE application Debuger\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\pc\Desktop\CODE application Debuger\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\pc\Desktop\CODE application Debuger\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\pc\Desktop\CODE application Debuger\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\pc\Desktop\CODE application Debuger\WindowsFormsApplication2\obj\Debug\CODE Debugger.csprojResolveAssemblyReference.cache
+C:\Users\pc\Desktop\CODE application Debuger\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Code_Manipulator.resources
+C:\Users\pc\Desktop\CODE application Debuger\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\pc\Desktop\CODE application Debuger\WindowsFormsApplication2\obj\Debug\CODE Debugger.csproj.GenerateResource.Cache
